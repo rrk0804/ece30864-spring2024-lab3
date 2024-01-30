@@ -4,3 +4,7 @@ a) The equivalent of a product owner in a non-agile project is an on-site custom
 b) The role of a scrum master is to help members of a team understand and practice the theory of Scrum. More responsibilites include coaching teams and group, helping leaders come to conclusions on their own,
    and improve the team so that the team works together to create value on an ongoing basis. A scum master differs from a prodct owner in the sense that the product owner is responsible only for the product 
    and the story items in the product backlog. Whereas, a scrum master interacts with the whole team to ensure that the team works effectively to create value and delivers the product on time. 
+c) The three types of meetings that happen during a sprint cycle are sprint planning meeting, scrum meeting, and scrum retrospective meeting. In sprint planning meeting, scrum teams gather together to plan 
+   tasks for the upcoming sprint. They also estimate the amount of effort and time required to complete the work items in the sprint in a sprint planning meetring. A sprint meeting is held almost daily  
+   during a sprint. In this meeting, the whole team gathers together to discuss the progress of the project and what is planned ahead. Lastly, in a sprint retrospective meeting, the whole team gathers 
+   together to look back on the tasks completed in the sprint. The team also assess the highs and lows of the sprint and determines how to improve sprints in the future. 
