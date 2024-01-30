@@ -8,3 +8,6 @@ c) The three types of meetings that happen during a sprint cycle are sprint plan
    tasks for the upcoming sprint. They also estimate the amount of effort and time required to complete the work items in the sprint in a sprint planning meetring. A sprint meeting is held almost daily  
    during a sprint. In this meeting, the whole team gathers together to discuss the progress of the project and what is planned ahead. Lastly, in a sprint retrospective meeting, the whole team gathers 
    together to look back on the tasks completed in the sprint. The team also assess the highs and lows of the sprint and determines how to improve sprints in the future. 
+d) An epic in Jira is a general category of work in a project. It captures stories to be completed as part of a larger goal of the project. A story in Jira is a basic untit of work. It is a project 
+   requirement that needs to be completed as part of the goal of an epic. A bug in Jira is software defect that needs to be resolved before the project can be shipped to production. A task in Jira represents 
+   generic work that needs to be completed. The use of a task may depend on the organization. A task may not necessarily correspond to an epic or story.
