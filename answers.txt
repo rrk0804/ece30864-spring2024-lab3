@@ -1,1 +1,3 @@
-
+a) The equivalent of a product owner in a non-agile project is an on-site customer. Another equiavlent role is a business analyst that specialized in gathering product requirements. The role of a product 
+   owner is to manage the product backlog. One of the central responsibilites of a product owner is to maximize the value of the product that results from the scrum team's efforts. The product owner also   
+   develops the stories in the product backlog to reflect project goals, communicates project goals, and makes sure that the product backlog is transparent and visible.
